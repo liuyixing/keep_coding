@@ -7,7 +7,7 @@ class Application
 	private $name;
 
 	private function __construct()
-	{	
+	{
 	}
 
 	public static function getInstance()
